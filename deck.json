@@ -2391,6 +2391,156 @@
                     "guid": "K*<?b|+m),",
                     "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Langform von Bit?",
+                        "binary digit (deutsch: binäre Stelle)"
+                    ],
+                    "guid": "MlgL@`Lf,K",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Werte kann ein Bit annehmen?",
+                        "0 und 1"
+                    ],
+                    "guid": "O]9xv&Z=eJ",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die kleine Informationseinheit?",
+                        "Ein Bit"
+                    ],
+                    "guid": "e+Xt=:`?uu",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist ein Bit technisch realisiert?",
+                        "- Spannung vorhanden (zb. 5V -&gt; 1; 0V -&gt; 0)<br>- Schalter geschlossen/offen<br>- Material magnetisiert/nicht magnetisiert"
+                    ],
+                    "guid": "rL1wx5uVh6",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann man komplexere Informationen als 0/1 darstellen?",
+                        "Mit mehreren Bits zusammen"
+                    ],
+                    "guid": "Ge={YC7L(c",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viele mögliche Werte kann man mit 1 Bit darstellen?",
+                        "2"
+                    ],
+                    "guid": "jli`.ON!tx",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viele mögliche Werte kann man mit 4 Bit darstellen?",
+                        "16"
+                    ],
+                    "guid": "dT3_a`X>y1",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viele mögliche Werte kann man mit 8 Bit darstellen?",
+                        "256"
+                    ],
+                    "guid": "DVAfOJLr}",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viele mögliche Werte kann man mit N Bit darstellen?",
+                        "2<sup>N</sup>"
+                    ],
+                    "guid": "Z~xdb^(?4",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mit welchem System kann man Textcodierung mit 7 Bits erreichen?",
+                        "ASCII System"
+                    ],
+                    "guid": "Or}p5;c)W^",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann Codiert man mit fester Länge?",
+                        "Wenn alle Möglichkeiten gleich wahrscheinlich sind"
+                    ],
+                    "guid": "C#`#c,GbCP",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Beispiel für eine Codierung mit fester Länge?",
+                        "7-Bit ASCII Code"
+                    ],
+                    "guid": "H@1]ePC~y,",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Hauptvorteil von einer Codierung mit variabler Länge?",
+                        "Effizienteste Nutzung von Bits"
+                    ],
+                    "guid": "L8eBfOxz*Q",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie erreicht man eine möglichst effiziente Codierung mit variablen Bits?",
+                        "Möglichkeiten mit <b>höherer</b> Wahrscheinlichkeit bekommen <b>kürzere</b> Codierung<br>Möglichkeiten mit <b>niedriger</b> Wahrscheinlichkeit bekommen <b>längere</b> Codierung"
+                    ],
+                    "guid": "E30dm](!Vg",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie berechnet man die <b>erwartete Länge</b>&nbsp;einer variablen Codierung?",
+                        "(Länge der Codierung)*(Wahrscheinlichkeit des Elements)<br><br>z.b.:<br><br>"
+                    ],
+                    "guid": "gU9h/_^d7G",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
                 }
             ],
             "reviewLimit": null,
