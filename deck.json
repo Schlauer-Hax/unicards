@@ -4,6 +4,2343 @@
         {
             "__type__": "Deck",
             "children": [],
+            "crowdanki_uuid": "3845c646-e2f6-11ef-a8e9-6132f5da98c4",
+            "deck_config_uuid": "37c54958-e2f6-11ef-a8e9-6132f5da98c4",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "300644220.png",
+                "300645355.png",
+                "300645643.png",
+                "300645672.png",
+                "300645883.png",
+                "300645909.png",
+                "300648927.png",
+                "300649013.png"
+            ],
+            "name": "BWL - 1",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie können Zielkonflikte zwischen ökonomischen Zielen auftreten?",
+                        "Zielkonflikte können auch zwischen ökonomischen Zielen selbst auftreten."
+                    ],
+                    "guid": "v+l?+%kRe7",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was beschreibt die Kostenstruktur einer Unternehmung?",
+                        "Die Kostenstruktur beschreibt die Verteilung und Art der Kosten, die eine Unternehmung trägt."
+                    ],
+                    "guid": "NO!P7FF2~D",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum sind Investitionsprogramme wichtig für Unternehmen?",
+                        "Investitionsprogramme helfen den Unternehmen, ihre finanziellen Ressourcen strategisch zu nutzen und zu planen."
+                    ],
+                    "guid": "E.U/KO=Bzp",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Liquiditätsreserve?",
+                        "Die Liquiditätsreserve ist ein finanzieller Puffer, der für unvorhergesehene Ausgaben bereitgehalten wird."
+                    ],
+                    "guid": "ReA,S>kV4j",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was versteht man unter Zahlungsfähigkeit?",
+                        "Zahlungsfähigkeit bezieht sich auf die Fähigkeit einer Unternehmung, ihre finanziellen Verbindlichkeiten fristgerecht zu erfüllen."
+                    ],
+                    "guid": "PN0e(He*l7",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Produktions- und Absatzmengen?",
+                        "Produktions- und Absatzmengen beziehen sich auf die Menge an produzierten und verkauften Gütern einer Unternehmung."
+                    ],
+                    "guid": "jSc3R|<YF~",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet Marktanteil im Kontext der ökonomischen Zielkonzeption?",
+                        "Der Marktanteil bezeichnet den Anteil einer Unternehmung am Gesamtmarkt und ist ein wichtiges Ziel."
+                    ],
+                    "guid": "J#rS^yyQ<K",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nenne drei Beispiele für finanzielle Ziele einer Unternehmung.",
+                        "1. Gewinn/Rentabilität 2. Dividenden 3. Umsatzvolumen."
+                    ],
+                    "guid": "zI>$]=D9D~",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Finanzziele?",
+                        "Finanzziele sind Ziele, die die finanziellen Ergebnisse einer Unternehmung betreffen."
+                    ],
+                    "guid": "OIJf^2zh-@",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Erfolgsziele?",
+                        "Erfolgsziele sind Ziele, die den Erfolg einer Unternehmung messen und darstellen."
+                    ],
+                    "guid": "g/31`>D>=?",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Leistungsziele?",
+                        "Leistungsziele sind spezifische Ziele, die die Leistung einer Unternehmung definieren."
+                    ],
+                    "guid": "vJ!hufbh%a",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Inwiefern können soziale Bedürfnisse in Zielkonflikte verwickelt sein?",
+                        "Soziale Bedürfnisse können in Konflikt mit ökonomischen und ökologischen Zielen geraten."
+                    ],
+                    "guid": "g,>eX^v>E&",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie beeinflussen Zielkonflikte die Unternehmensstrategie?",
+                        "Zielkonflikte können die Entscheidungsfindung und Strategieentwicklung eines Unternehmens herausfordern."
+                    ],
+                    "guid": "E4?_29wXn+",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Beispielkategorie für Zielkonflikte in Unternehmen?",
+                        "Ein Beispiel für Zielkonflikte in Unternehmen sind die unterschiedlichen Interessen zwischen verschiedenen Abteilungen."
+                    ],
+                    "guid": "d[xeJ>vdwI",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nenne die drei Bereiche, die in Bezug auf Zielkonflikte gegenübergestellt werden.",
+                        "Ökonomie, Ökologie und soziale Bedürfnisse."
+                    ],
+                    "guid": "eJn>Vo#:t}",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nenne die drei Aspekte, zwischen denen Zielkonflikte bestehen können.",
+                        "Zielkonflikte bestehen zwischen Ökonomie, Ökologie und sozialen Ansprüchen."
+                    ],
+                    "guid": "y:(sU4Eq*>",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Zielkonflikte zwischen Unternehmensbereichen?",
+                        "Zielkonflikte treten zwischen verschiedenen Unternehmensbereichen auf, die unterschiedliche Ziele verfolgen."
+                    ],
+                    "guid": "LeJwDSzp_;",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind einige Dimensionen der Unternehmenskultur?",
+                        "Risikobereitschaft, Geschwindigkeit der Marktreaktion, Offenheit, Differenziertheit von Kulturen."
+                    ],
+                    "guid": "v17qcsLS~#",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Einflussfaktoren der Unternehmenskultur?",
+                        "Einflussfaktoren der Unternehmenskultur sind u.a. Geschichte des Unternehmens, Führungsfiguren, Branchen, Länder, Religionen und Wettbewerbssituation."
+                    ],
+                    "guid": "LYIo;-zB+5",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wer ist von der Unternehmenskultur betroffen?",
+                        "Alle Mitglieder der Unternehmung."
+                    ],
+                    "guid": "g,wDPiLP.l",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Unterschied zwischen Werten und Normen in der Unternehmenskultur?",
+                        "Werte sind grundlegende Überzeugungen, während Normen Regeln sind, die das Verhalten leiten."
+                    ],
+                    "guid": "If2NipP_c)",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie können Veränderungsprozesse die Unternehmenskultur beeinflussen?",
+                        "Veränderungsprozesse können neue Werte und Normen hervorbringen oder bestehende infrage stellen."
+                    ],
+                    "guid": "vkteX+@ZjP",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Rolle spielt die Zeit bei der Entwicklung der Unternehmenskultur?",
+                        "Unternehmenskultur entsteht und festigt sich über einen längeren Zeitraum."
+                    ],
+                    "guid": "m>hFIxgGgs",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was geschieht, wenn Werte und Normen in einer Unternehmung nicht akzeptiert werden?",
+                        "Die Unternehmenskultur wird nicht gefestigt und kann zu Unsicherheiten im Handeln führen."
+                    ],
+                    "guid": "IIiZ{(e^MR",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In welcher Form drücken sich die Werte und Normen einer Unternehmenskultur aus?",
+                        "Sie prägen das Entscheiden und Handeln der Mitglieder der Unternehmung."
+                    ],
+                    "guid": "J?Jq,x]z(0",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie entstehen Unternehmenskulturen?",
+                        "Im Laufe der Zeit durch die Akzeptanz von bestimmten Werten und Normen."
+                    ],
+                    "guid": "de.^ukD.L$",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum ist die Unternehmenskultur wichtig?",
+                        "Sie beeinflusst entscheidend das Verhalten und die Entscheidungen der Mitglieder einer Unternehmung."
+                    ],
+                    "guid": "qqw|beM$X)",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Elemente prägen die Unternehmenskultur?",
+                        "Die Werte und Normen, die das Entscheiden und Handeln der Mitglieder der Unternehmung beeinflussen."
+                    ],
+                    "guid": "C%F+yZQhYa",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bezeichnet der Begriff 'Unternehmenskultur'?",
+                        "Die Gesamtheit von im Laufe der Zeit entstandenen und akzeptierten Werten und Normen."
+                    ],
+                    "guid": "Q*hkV=$R.a",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie steht das Unternehmen zur Umwelt?",
+                        "Die Einstellung zur Umwelt (Ökologie) ist ein zentraler Bestandteil der Unternehmensphilosophie."
+                    ],
+                    "guid": "g|6q_&$H]A",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Legitimation in der Unternehmensphilosophie?",
+                        "Die Legitimation bezieht sich darauf, warum das Unternehmen in seiner Existenz gerechtfertigt ist."
+                    ],
+                    "guid": "par=7^8R+m",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was umfasst das Menschenbild in der Unternehmensphilosophie?",
+                        "Das Menschenbild umfasst die Sichtweise des Unternehmens auf den Menschen."
+                    ],
+                    "guid": "o<_m5q}Y9,",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was gehört zum Gesellschafts- und Leitbild?",
+                        "Es beschreibt die Werte und Grundsätze, die das Unternehmen leiten."
+                    ],
+                    "guid": "Da:J1`5d#k",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Fragen unterscheiden die Unternehmensphilosophie?",
+                        "Gesellschafts- und Leitbild, Menschenbild, Legitimation, Einstellung zur Umwelt (Ökologie)."
+                    ],
+                    "guid": "mCIQ;*uHvz",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet das U in U-philosophie?",
+                        "U-philosophie steht für die Einstellung des Unternehmens in Bezug auf Umwelt."
+                    ],
+                    "guid": "yzcq0g&{rC",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Unternehmensphilosophie?",
+                        "Die Unternehmensphilosophie beschreibt die grundlegende Einstellung des Unternehmens."
+                    ],
+                    "guid": "Ps3Hm=&9C-",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist Planbarkeit in Bezug auf Unternehmen?",
+                        "Die Fähigkeit, zukünftige Entwicklungen und Änderungen vorherzusehen und strategisch zu planen."
+                    ],
+                    "guid": "PS/,G:OX6A",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was versteht man unter Wachstum in der Unternehmung?",
+                        "Die Ausweitung der Geschäftstätigkeit und der Umsätze."
+                    ],
+                    "guid": "v+/z(-/~F+",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was beschreibt Liquidität in einem Unternehmen?",
+                        "Die Fähigkeit, Verbindlichkeiten jederzeit begleichen zu können."
+                    ],
+                    "guid": "Emb?>|iwlR",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet Rentabilität in der Unternehmung?",
+                        "Die Fähigkeit eines Unternehmens, Gewinne zu erwirtschaften."
+                    ],
+                    "guid": "G@|}AcP({)",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Existenzbedingungen der Unternehmung?",
+                        "Rentabilität, Liquidität, Wachstum, Planbarkeit"
+                    ],
+                    "guid": "GaF4?|.WfV",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Entsehungsmodell</p>",
+                        "<img src=\"300649013.png\">"
+                    ],
+                    "guid": "mN/Bt=YX{}",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie sollten Zielkonflikte nach dem Text geklärt werden?",
+                        "Zielkonflikte sind durch Priorisierung zu klären."
+                    ],
+                    "guid": "A|(f@6aLVy",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird der Zielbildungsprozess beschrieben?",
+                        "Der Zielbildungsprozess ist ein Aushandelprozess!"
+                    ],
+                    "guid": "uCS#EX[{FC",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was beschreibt ein Zielsystem?",
+                        "Ein Zielsystem ist ein Bündel von aufeinander abgestimmten Zielen."
+                    ],
+                    "guid": "lXBB%{S&71",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was hat Interessendurchsetzung laut der dritten These mit Macht zu tun?",
+                        "Interessendurchsetzung hat etwas mit Macht zu tun."
+                    ],
+                    "guid": "hy?E?0l`g<",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist das Ergebnis von Entscheidungsprozessen laut der zweiten These?",
+                        "Ziele sind das Ergebnis von Entscheidungsprozessen."
+                    ],
+                    "guid": "DpwLU%+W}w",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was besagt die erste These über Unternehmensziele?",
+                        "Unternehmensziele liegen nicht von vornherein fest und die Zielbildung ist ein multipersoneller, multioperationaler und multitemporaler Prozess."
+                    ],
+                    "guid": "C[]esF_x}2",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet Rechenschaftspflicht in den Unternehmenswerten?",
+                        "Wir übernehmen die volle Verantwortung für unsere Entscheidungen, Handlungen und Ergebnisse."
+                    ],
+                    "guid": "pCm#a#[ZIo",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was versteht man unter Integrität in den Unternehmenswerten?",
+                        "Wir sind ehrlich, ethisch und vertrauenswürdig."
+                    ],
+                    "guid": "g@&{KR.EKz",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet Respekt in den Unternehmenswerten?",
+                        "Wir betrachten die Gedanken, Gefühle und Hintergründe anderer Personen als gleichwertig mit unseren eigenen."
+                    ],
+                    "guid": "re:8LH@wnN",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Zielpyramide</p>",
+                        "<img src=\"300648927.png\">"
+                    ],
+                    "guid": "nuOjOr)_rf",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die zwei Faktoren, die zu „Smart“ führen?",
+                        "Attraktivität und Realismus"
+                    ],
+                    "guid": "I6Zs4$ruTn",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Kennzeichen eines Zieles?",
+                        "Zielinhalt, Zielausmaß, zeitlicher Bezug, sachlicher Geltungsbereich"
+                    ],
+                    "guid": "FwMN-4C{,O",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Aufgaben hat das Zielsystem im Unternehmen?",
+                        "Entscheidungs-, Koordinations-, Motivations-, Informations-, Kontroll- und Legitimationsfunktion."
+                    ],
+                    "guid": "j]6wy$~(im",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist das Ziel im Unternehmen laut dem Text?",
+                        "Die normative Aussage des Entscheidungsträgers über in der Zukunft zu erreichenden Zustand."
+                    ],
+                    "guid": "lDT`2|u`la",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sichert die unternehmerische Mitbestimmung?",
+                        "Gleichberechtigung zwischen Kapital und Arbeit."
+                    ],
+                    "guid": "nh`@[ElkuM",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welches Gesetz regelt die Sitzverteilung in großen Unternehmen?",
+                        "Das MontanMitbestG, MitbestG und DrittelbG."
+                    ],
+                    "guid": "rCen12Cs%G",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Unterschied zwischen unternehmerischer und betrieblicher Mitbestimmung?",
+                        "Unternehmerische Mitbestimmung betrifft den Aufsichtsrat, betriebliche Mitbestimmung betrifft soziale und arbeitsrechtliche Themen."
+                    ],
+                    "guid": "iczstpKx~p",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ab wann gilt das MitbestG (1976) mit doppeltem Stimmrecht des AR-Vorsitzenden?",
+                        "Ab 2.000 Mitarbeitern."
+                    ],
+                    "guid": "FI~q~42^Ue",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann wurde die Frauenquote im Aufsichtsrat Pflicht?",
+                        "2015."
+                    ],
+                    "guid": "GM.YM9#(=E",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist das Hauptziel der unternehmerischen Mitbestimmung?",
+                        "Stärkung der Beteiligung von Arbeitnehmern an Entscheidungsprozessen."
+                    ],
+                    "guid": "Bmgb&7sl@7",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie stärkt die unternehmerische Mitbestimmung die Arbeitnehmerbeteiligung?",
+                        "Sie regelt deren Einfluss im Aufsichtsrat je nach Unternehmensgröße."
+                    ],
+                    "guid": "y&yg+rZn^q",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was unterscheidet die unternehmerische von der betrieblichen Mitbestimmung?",
+                        "Unternehmerische Mitbestimmung: Arbeitnehmer im Aufsichtsrat; Betriebliche Mitbestimmung: BetrVG, ab 5 Mitarbeitern, soziale & arbeitsrechtliche Themen."
+                    ],
+                    "guid": "dcPPL~fHLr",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Ziele der unternehmerischen Mitbestimmung?",
+                        "Sicherung von Gleichberechtigung zwischen Kapital & Arbeit, Demokratie & Kontrolle wirtschaftlicher Macht, Förderung einer vertrauensvollen Zusammenarbeit."
+                    ],
+                    "guid": "mKEsB5`Q-_",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Frauenquote in Unternehmen?",
+                        "Seit 2015 Pflicht im Aufsichtsrat, seit 2021 auch für Vorstände."
+                    ],
+                    "guid": "j&ia}(;q_L",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie werden Arbeitnehmervertreter im Aufsichtsrat bestimmt?",
+                        "Durch Wahl oder Delegation (Arbeiter, Angestellte, Gewerkschaften)."
+                    ],
+                    "guid": "L9|3nUF>KP",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was beschreibt das DrittelbG von 2004?",
+                        "2:1 Sitzverteilung ab 500 Mitarbeitern zugunsten der Arbeitgeber."
+                    ],
+                    "guid": "i(]!{}cr4B",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Regelung des MitbestG von 1976?",
+                        "1:1 Sitzverteilung ab 2.000 Mitarbeitern mit doppeltem Stimmrecht des AR-Vorsitzenden."
+                    ],
+                    "guid": "B/i~ycu;F",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was besagt das MontanMitbestG von 1951?",
+                        "1:1 Sitzverteilung + neutrales Mitglied ab 1.000 Mitarbeitern."
+                    ],
+                    "guid": "cHHo=F%Q&@",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was regelt die unternehmerische Mitbestimmung im Aufsichtsrat?",
+                        "Die Zusammensetzung durch Arbeitnehmervertreter."
+                    ],
+                    "guid": "i})*0_PV}L",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wer sind die Aktionäre/Gesellschafter?",
+                        "Sie sind die Kapitalgeber der Gesellschaft."
+                    ],
+                    "guid": "z;.1=2p!vx",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Rolle haben Arbeitnehmer & Gewerkschaften in einer Kapitalgesellschaft?",
+                        "Sie sind die Interessenvertretung der Mitarbeiter."
+                    ],
+                    "guid": "H)knIXNfy>",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Haupt-/Gesellschafterversammlung?",
+                        "<p>Ein Organ für wichtige Entscheidungen</p><p>Ebenfalls wählen diese den Arbeitgebervertreter</p>"
+                    ],
+                    "guid": "sh`@)S]DDv",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Aufgabe hat der Aufsichtsrat?",
+                        "Überwachung der Geschäftsführung."
+                    ],
+                    "guid": "c@o4tLF.P7",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Vorstand/Geschäftsführung in einer Kapitalgesellschaft?",
+                        "Die Leitung der Gesellschaft."
+                    ],
+                    "guid": "LJ/8DCCx(s",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Initiativrechte des Betriebsrats?",
+                        "Initiativrechte erlauben dem Betriebsrat, Vorschläge zu machen und Änderungen anzuregen."
+                    ],
+                    "guid": "Gsw(wvq&V/",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet das Vetorecht des Betriebsrats?",
+                        "Das Vetorecht bedeutet, dass der Betriebsrat Entscheidungen blockieren kann, wenn diese nicht in Übereinstimmung mit den Mitbestimmungsrechten sind."
+                    ],
+                    "guid": "opbq.e6~aY",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Anspruch hat der Betriebsrat in Bezug auf Verhandlungen?",
+                        "Der Betriebsrat hat Anspruch auf Beratung und Verhandlung."
+                    ],
+                    "guid": "AMNtOYE&|`",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist das Recht auf Anhörung?",
+                        "Das Recht auf Anhörung ist ein Mitbestimmungsrecht des Betriebsrats."
+                    ],
+                    "guid": "RfmK!cikOB",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nenne ein Recht des Betriebsrats.",
+                        "Das Recht auf Information."
+                    ],
+                    "guid": "D4F+]?|LI:",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Rechte hat der Betriebsrat bei sozialen und arbeitsrechtlichen Angelegenheiten?",
+                        "Der Betriebsrat hat Mitspracherechte, Mitwirkungsrechte und Mitbestimmungsrechte."
+                    ],
+                    "guid": "E:abRA%C7@",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Für welche Unternehmen gilt das BetrVG?",
+                        "Das BetrVG gilt für alle Unternehmen mit mehr als 500 Mitarbeitern."
+                    ],
+                    "guid": "k=@318^)QH",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was regelt das BetrVG?",
+                        "Das BetrVG regelt die Mitbestimmungsrechte und die Rechte des Betriebsrats."
+                    ],
+                    "guid": "A^Q-lXn>DD",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche zwei Arten von Mitbestimmung werden unterschieden?",
+                        "arbeitsrechtliche Mitbestimmung (ARM) und unternehmerische Mitbestimmung (UMB)."
+                    ],
+                    "guid": "Lo8|Y<[0<-",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Begründungen für die Mitwirkung und Mitbestimmung im Betrieb?",
+                        "Würde des Menschen, Selbstbestimmung, Gleichberechtigung von Kapital und Arbeit, Demokratieprinzip, Kontrolle wirtschaftlicher Macht."
+                    ],
+                    "guid": "B(!;&vZkaN",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie können ökonomischer Erfolg und gute soziale Beziehungen zueinander stehen?",
+                        "Ökonomischer Erfolg und gute soziale Beziehungen müssen auf lange Sicht kein Gegensatz sein!"
+                    ],
+                    "guid": "uLY#%j>Q)o",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind einige Schlagworte für die sozialen Ziele im Unternehmen?",
+                        "Gerechte Entlohnung, Humane Arbeitsbedingungen, Arbeitsplatzsicherheit, Beteiligung der Arbeitnehmer an Gewinn und Vermögen, Mitwirkung/ -entscheidung/ -bestimmung."
+                    ],
+                    "guid": "Pq5lWcS0tf",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Steuern müssen von einer UG (haftungsbeschränkt) entrichtet werden?",
+                        "Gewerbe- und Körperschaftsteuer."
+                    ],
+                    "guid": "KpndLUxkSH",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird der Firmenname einer UG (haftungsbeschränkt) bestimmt?",
+                        "Er muss \"UG (haftungsbeschränkt)\" enthalten und kann einen Fantasienamen haben."
+                    ],
+                    "guid": "lmM?Y*IRoy",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Vorteile der UG (haftungsbeschränkt) für Gründer?",
+                        "Günstige Alternative zur GmbH mit geringem Kapitalaufwand."
+                    ],
+                    "guid": "d8^Pnc)p?B",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird die Mitarbeiterbeteiligung in einer UG (haftungsbeschränkt) geregelt?",
+                        "Mitbestimmung greift meist erst ab einer bestimmten Mitarbeiterzahl."
+                    ],
+                    "guid": "(;jd}4xtp",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie erfolgt die rechtliche Gründung einer UG (haftungsbeschränkt)?",
+                        "Durch einen Gesellschaftsvertrag und notarielle Beurkundung."
+                    ],
+                    "guid": "i|N~tipk:@",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Zweck der Rücklagenbildung in der UG (haftungsbeschränkt)?",
+                        "Die Rücklagenbildung dient dazu, das Position der Gesellschaft auf 25.000 € zu bringen."
+                    ],
+                    "guid": "u|MV4co@Y+",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Rolle spielt der Geschäftsführer in der UG (haftungsbeschränkt)?",
+                        "Der Geschäftsführer leitet die Gesellschaft, ähnlich wie bei der GmbH."
+                    ],
+                    "guid": "u>(Ix!d@QC",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was passiert mit dem Privatvermögen der Gesellschafter einer UG (haftungsbeschränkt) bei Haftungsfragen?",
+                        "Das Privatvermögen der Gesellschafter bleibt bei Haftungsfragen unberührt."
+                    ],
+                    "guid": "q(ZSkw4N)`",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie hoch ist das Mindestkapital für die Gründung einer UG (haftungsbeschränkt)?",
+                        "Das Mindestkapital kann ab 1 € betragen."
+                    ],
+                    "guid": "GTc6ejP&~%",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Bedeutung hat die UG (haftungsbeschränkt) für Gründer mit geringem Kapital?",
+                        "Die UG ist eine günstige Alternative zur GmbH, stellt jedoch Ansparpflichten."
+                    ],
+                    "guid": "wup${!$t,A",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann greift die Mitbestimmung in einer UG (haftungsbeschränkt)?",
+                        "Die Mitbestimmung greift meist erst ab einer bestimmten Mitarbeiterzahl."
+                    ],
+                    "guid": "w8Ee%Id=&U",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird eine UG (haftungsbeschränkt) besteuert?",
+                        "Die UG unterliegt der Gewerbe- und Körperschaftsteuer."
+                    ],
+                    "guid": "cEZ!5ZDq5S",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was muss im Namen einer UG (haftungsbeschränkt) enthalten sein?",
+                        "Der Name muss \"UG (haftungsbeschränkt)\" enthalten; ein Fantasiename ist erlaubt."
+                    ],
+                    "guid": "sU)xgLJBM8",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist bei der Gründung einer UG (haftungsbeschränkt) erforderlich?",
+                        "Ein Gesellschaftsvertrag, notarielle Beurkundung und ein Handelsregistereintrag sind erforderlich."
+                    ],
+                    "guid": "rTr573o#w*",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird der Gewinn in einer UG (haftungsbeschränkt) verteilt?",
+                        "Die Gewinnverteilung erfolgt an die Gesellschafter, abhängig von ihren Anteilen."
+                    ],
+                    "guid": "H!-.WdPtdT",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie erfolgt die Finanzierung einer UG (haftungsbeschränkt)?",
+                        "Die Finanzierung erfolgt durch Einlagen, Gewinne und Rücklagen."
+                    ],
+                    "guid": "hknQK)$9y;",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird die UG (haftungsbeschränkt) geleitet?",
+                        "Die Leitung erfolgt durch einen Geschäftsführer, ähnlich wie bei der GmbH."
+                    ],
+                    "guid": "N:9vHa.dw8",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ab welchem Betrag kann eine UG (haftungsbeschränkt) gegründet werden?",
+                        "Die Gründung ist ab 1 € Mindestkapital möglich, es besteht jedoch eine Pflicht zur Rücklagenbildung bis 25.000 €."
+                    ],
+                    "guid": "O-^cN,b[sB",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist die Haftung der UG (haftungsbeschränkt) geregelt?",
+                        "Die Haftung ist beschränkt auf das Gesellschaftsvermögen, das Privatvermögen der Gesellschafter bleibt unberührt."
+                    ],
+                    "guid": "I|o1Tb-ZEE",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Rechtsform der UG (haftungsbeschränkt)?",
+                        "Eine Sonderform der GmbH mit eigener Rechtspersönlichkeit."
+                    ],
+                    "guid": "u-`Uv)1}cC",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum ist die GmbH eine beliebte Rechtsform in Deutschland?",
+                        "Wegen der beschränkten Haftung und des moderaten Gründungsaufwands."
+                    ],
+                    "guid": "FX:><YLMy7",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Steuervorteile hat eine GmbH?",
+                        "Sie profitiert von einer klaren steuerlichen Regelung durch Gewerbe- und Körperschaftsteuer."
+                    ],
+                    "guid": "b8gpC>evFw",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet 'Fantasiename' in Bezug auf die GmbH?",
+                        "Ein kreativer Name, der zusätzlich zur gesetzlichen Bezeichnung 'GmbH' verwendet werden kann."
+                    ],
+                    "guid": "oj.t5RyP{6",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird das Kapital bei der Gründung einer GmbH aufgebracht?",
+                        "Mindestens 12.500 € müssen bei der Gründung eingezahlt werden."
+                    ],
+                    "guid": "O/kUfFVH|c",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Zweck einer notariellen Beurkundung bei der Gründung einer GmbH?",
+                        "Um die gesetzlichen Anforderungen für den Gesellschaftsvertrag zu erfüllen."
+                    ],
+                    "guid": "gCs`y($#wt",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sollte in einem Gesellschaftsvertrag einer GmbH enthalten sein?",
+                        "Regelungen zur Organisation, Haftung, Gewinnverteilung und mehr."
+                    ],
+                    "guid": "l}gnNbia6O",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was passiert bei Pflichtverletzungen von Gesellschaftern einer GmbH?",
+                        "Sie haften persönlich, auch über das Gesellschaftsvermögen hinaus."
+                    ],
+                    "guid": "AG#e1kh:jV",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind mögliche Quellen der Finanzierung für eine GmbH?",
+                        "Einlagen, Gewinne, Rücklagen oder neue Gesellschafter."
+                    ],
+                    "guid": "x,jG^B8&KD",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird die Gesellschafterversammlung in einer GmbH definiert?",
+                        "Als das wichtigste Organ der Gesellschaft."
+                    ],
+                    "guid": "nF!OB`ZmAe",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine der Hauptmerkmale einer GmbH?",
+                        "Die Beschränkung der Haftung der Gesellschafter."
+                    ],
+                    "guid": "G81;(}>r)w",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Bedeutung einer GmbH in Deutschland?",
+                        "Eine der beliebtesten Rechtsformen wegen beschränkter Haftung und moderatem Gründungsaufwand."
+                    ],
+                    "guid": "DRNP~>N6*A",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird eine GmbH besteuert?",
+                        "Durch Gewerbe- und Körperschaftsteuer."
+                    ],
+                    "guid": "hzXu4^Z%V:",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie muss eine GmbH firmiert werden?",
+                        "Mit 'GmbH' im Namen, Fantasiename ist möglich."
+                    ],
+                    "guid": "o4gpZXxm6w",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist erforderlich zur Gründung einer GmbH?",
+                        "Gesellschaftsvertrag, notarielle Beurkundung, Eintragung ins Handelsregister."
+                    ],
+                    "guid": "d}<K21ju^8",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird der Gewinn in einer GmbH verteilt?",
+                        "Nach Gesellschafteranteilen."
+                    ],
+                    "guid": "z/8@7em^<.",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie erfolgt die Finanzierung einer GmbH?",
+                        "Durch Einlagen, Gewinne, Rücklagen oder neue Gesellschafter."
+                    ],
+                    "guid": "B{TPh6`Uue",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wer leitet eine GmbH?",
+                        "Der Geschäftsführer und die Gesellschafterversammlung sind die wichtigsten Organe."
+                    ],
+                    "guid": "QCs9>0CWY(",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie hoch ist das Mindestkapital einer GmbH?",
+                        "25.000 €, davon mindestens 12.500 € bei Gründung einzuzahlen."
+                    ],
+                    "guid": "jkq9J=3EEX",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie haften Gesellschafter einer GmbH?",
+                        "Sie haften nur mit dem Gesellschaftsvermögen, außer bei Pflichtverletzungen."
+                    ],
+                    "guid": "H(Pi&+xiDe",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Rechtsform einer GmbH?",
+                        "Kapitalgesellschaft mit eigener Rechtspersönlichkeit."
+                    ],
+                    "guid": "I|ncDDP0pL",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche steuerlichen Verpflichtungen hat eine AG?",
+                        "Eine AG muss Gewerbe- und Körperschaftsteuer zahlen."
+                    ],
+                    "guid": "x<ChXC[v)a",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was müssen Aktionäre beachten bezüglich ihrer Haftung?",
+                        "Aktionäre haften nur bis zur Höhe ihrer Einlage."
+                    ],
+                    "guid": "A,.^H~-q=r",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie erfolgt die Ausschüttung des Gewinns in einer AG?",
+                        "Die Ausschüttung erfolgt in der Regel proportional zur Anzahl der Aktien."
+                    ],
+                    "guid": "uOJBp#eE/,",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Zweck der Ausgabe von Aktien in einer AG?",
+                        "Die Aktienausgabe dient der Kapitalbeschaffung."
+                    ],
+                    "guid": "E]N4o8M!tR",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was benötigt man zusätzlich bei der Gründung einer AG?",
+                        "Ein Handelsregistereintrag ist notwendig zur Gründung."
+                    ],
+                    "guid": "Q](|Vr<^!*",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Satzung in Bezug auf eine AG?",
+                        "Die Satzung ist das Dokument, das die Regeln und Struktur der AG festlegt."
+                    ],
+                    "guid": "kvp%:-a`-y",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Rolle spielt der Aufsichtsrat in einer AG?",
+                        "Der Aufsichtsrat überwacht die Tätigkeiten des Vorstands."
+                    ],
+                    "guid": "f+@Z<K3/dt",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Vorstand einer AG?",
+                        "Der Vorstand ist das Leitungsorgan der AG."
+                    ],
+                    "guid": "JrHx*Ff&X5",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Hauptversammlung in einer AG?",
+                        "Die Hauptversammlung ist das Organ, in dem Beschlüsse gefasst werden."
+                    ],
+                    "guid": "k2h:KdC2bP",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum ist die AG eine beliebte Rechtsform?",
+                        "Die AG ist beliebt für große Unternehmen wegen einfacher Kapitalbeschaffung."
+                    ],
+                    "guid": "tVo--Cm8xR",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie erfolgt die Mitbestimmung in einer AG?",
+                        "Gesetze regeln die Arbeitnehmervertretung im Aufsichtsrat."
+                    ],
+                    "guid": "q<a8GP!t`S",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird eine AG besteuert?",
+                        "Eine AG unterliegt der Gewerbe- und Körperschaftsteuer."
+                    ],
+                    "guid": "^en-<b;$C",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was muss im Namen einer AG enthalten sein?",
+                        "Im Namen muss 'AG' enthalten sein."
+                    ],
+                    "guid": "xtAUc9B%>F",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist notwendig für die Gründung einer AG?",
+                        "Für die Gründung benötigt man eine Satzung, notarielle Beurkundung und einen Handelsregistereintrag."
+                    ],
+                    "guid": "xxnxu!sf^A",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie erfolgt die Gewinnverteilung in einer AG?",
+                        "Der Gewinn wird an die Aktionäre ausgeschüttet."
+                    ],
+                    "guid": "b]:-ajrgy<",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie erfolgt die Finanzierung einer AG?",
+                        "Die Finanzierung erfolgt durch die Ausgabe von Aktien."
+                    ],
+                    "guid": "gyST#L+v`2",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist das Mindestkapital einer AG?",
+                        "Das Mindestkapital beträgt 50.000 €."
+                    ],
+                    "guid": "sk9m;Ez$B5",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie haftet man bei einer AG?",
+                        "Aktionäre haften nur mit dem Gesellschaftsvermögen."
+                    ],
+                    "guid": "DN/8eAkbO[",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Organe hat eine AG?",
+                        "Die Organe der AG sind Vorstand (Leitung), Aufsichtsrat (Überwachung) und Hauptversammlung (Beschlüsse)."
+                    ],
+                    "guid": "e28eRRyZkM",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine AG?",
+                        "Eine Aktiengesellschaft (AG) ist eine Kapitalgesellschaft mit eigener Rechtspersönlichkeit."
+                    ],
+                    "guid": "Q#O&@zjs&P",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Nenne alle Punkte zur GmbH:</p>",
+                        "<p>✅ Rechtsform: Kapitalgesellschaft mit eigener Rechtspersönlichkeit.<br>✅ Haftung: Gesellschafter haften nur mit dem Gesellschaftsvermögen (Ausnahme: Pflichtverletzungen).<br>✅ Mindestkapital: 25.000 €, davon mindestens 12.500 € bei Gründung einzuzahlen.<br>✅ Leitung: Geschäftsführer, Gesellschafterversammlung als wichtigstes Organ.<br>✅ Finanzierung: Durch Einlagen, Gewinne, Rücklagen oder neue Gesellschafter.<br>✅ Gewinnverteilung: Nach Gesellschafteranteilen.<br>✅ Gründung: Gesellschaftsvertrag, notarielle Beurkundung, Eintragung ins Handelsregister.<br>✅ Firmierung: „GmbH“ im Namen, Fantasiename möglich.<br>✅ Besteuerung: Gewerbe- und Körperschaftsteuer.<br>✅ Bedeutung: Eine der beliebtesten Rechtsformen in Deutschland wegen beschränkter Haftung und moderatem Gründungsaufwand.</p>"
+                    ],
+                    "guid": "jSD9)q(QrX",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was weißt du über eine AG?</p>",
+                        "<p>✅ Rechtsform: Kapitalgesellschaft mit eigener Rechtspersönlichkeit.<br>✅ Organe: Vorstand (Leitung), Aufsichtsrat (Überwachung), Hauptversammlung (Beschlüsse).<br>✅ Haftung: Aktionäre haften nur mit dem Gesellschaftsvermögen.<br>✅ Mindestkapital: 50.000 € erforderlich.<br>✅ Finanzierung: Durch die Ausgabe von Aktien.<br>✅ Gewinnverteilung: Ausschüttung an Aktionäre.<br>✅ Gründung: Satzung, notarielle Beurkundung, Handelsregistereintrag.<br>✅ Firmierung: Muss „AG“ im Namen enthalten.<br>✅ Besteuerung: Gewerbe- und Körperschaftsteuer.<br>✅ Mitbestimmung: Gesetze regeln die Arbeitnehmervertretung im Aufsichtsrat.<br>✅ Bedeutung: Beliebte Rechtsform für große Unternehmen wegen einfacher Kapitalbeschaffung.</p>"
+                    ],
+                    "guid": "dAu{hZF_6/",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Das Wort selbst: KG</p><p>Phonetische Transkription: /kaːˈɡeː/</p>",
+                        "<p>Eine klare und prägnante Definition des Wortes: KG (Kommanditgesellschaft): Eine in Deutschland und anderen Ländern verbreitete Gesellschaftsform, bei der es einen oder mehrere Kommanditisten gibt, die nur bis zur Höhe ihrer Einlage haften und einen Komplementär, der voll haftet.</p><p>Zwei Beispielsätze: 1. In einer KG ist der Komplementär für die geschäftlichen Entscheidungen verantwortlich. 2. Die Investoren traten als Kommanditisten in die KG ein, um von den Gewinnen zu profitieren, ohne volles Risiko einzugehen.</p><p></p><p>KG: Eigentümer haften nicht mehr voll</p><p></p><p>\"Komplementär haftet sehr\" </p>"
+                    ],
+                    "guid": "u^84!Wlmk!",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Das Wort selbst:<br>oHG<br>Phonetische Transkription (wenn möglich im IPA-Format):<br>/oː.eː.ɡeː/</p>",
+                        "<p>Eine klare und prägnante Definition des Wortes:<br>Die oHG (offene Handelsgesellschaft) ist eine Personengesellschaft, deren Gesellschafter sich zur gemeinsamen Führung eines Handelsgewerbes und zurungeteilten Haftung verpflichten.<br>Beispielsätze:</p><p>GbR: (nicht) Spontan und Haftung für andere  / Gründung automatisch, nicht im Handelsregister, keine typisch betriebswirtschaftliche Rechtsform, BGB, (Vorform der oHG)</p>"
+                    ],
+                    "guid": "k-3QHF4J(|",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welches spezifische Element umfasst die Rechtsform?",
+                        "Die Rechtsform umfasst das rechtliche Kleid."
+                    ],
+                    "guid": "pq!;1jrZNt",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Rechtsform?",
+                        "Eine Rechtsform ist eine rechtliche Organisation oder ein rechtlicher Rahmen, der das rechtliche Kleid eines Unternehmens beschreibt."
+                    ],
+                    "guid": "P#9([Ps.*5",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was beinhaltet der Soll-Ist-Vergleich?",
+                        "Der Soll-Ist-Vergleich beinhaltet das Vorgeben von Richtgrößen."
+                    ],
+                    "guid": "bGcS`e1xU,",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was wird beim Betriebsvergleich analysiert?",
+                        "Es werden die Kennzahlen mit Betrieben der Branche verglichen."
+                    ],
+                    "guid": "n=;j])v=H",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet der Bereichs- und Abteilungsvergleich bei Kennzahlen?",
+                        "Es ist der Vergleich der Kennzahlen verschiedener Unternehmensbereiche."
+                    ],
+                    "guid": "n.{EI(|F))",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Zweck des Zeit- und Periodenvergleichs bei Kennzahlen?",
+                        "Der Zweck ist der Vergleich gleicher Kennzahlen im Zeitablauf zur Beurteilung der inneren Entwicklung."
+                    ],
+                    "guid": "O5Fnd7QzyE",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Eigenschaften von Kennzahlen?",
+                        "Maßgrößencharakter, Verdichtungscharakter, Entscheidungsbezug."
+                    ],
+                    "guid": "OMmk?gpJh.",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was stellen die betriebswirtschaftlichen Kennzahlen bereit?",
+                        "Informationen zur Führung von Unternehmen."
+                    ],
+                    "guid": "E{%DA;/P1J",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind betriebswirtschaftliche Kennzahlen?",
+                        "Quantitative Größen, die in konzentrierter Form Informationen zur Führung von Unternehmen bereitstellen."
+                    ],
+                    "guid": "O1i$aN|ACB",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Bilanzzwecke</p>",
+                        "<img src=\"300645909.png\"><p>Warum macht man eine Bilanz?</p><p> </p><p> </p><p> Informationen für Entscheidungen Ist veraltet (weil aus dem Vorjahr) Soll (indirekt) Zahlungsauslösung--&gt; (Steuerzahlungen, Zahlungen an Eigentümer) Gewinn der Bilanz dürfen Eigentümer ausschütten (auszahlen) (Extra Beschluss nötig) Soll den Wert eines Unternehmens darstellen (Ist aber nicht der wahre Wert des Unternehmens, ist nur ein Teil davon --&gt; Humanvermögen fehlt Wahre Wert (Wer wäre wie viel dazu bereit für etw. zu zahlen) </p>"
+                    ],
+                    "guid": "z^aUeps)6,",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Handelsbilanz mit Aktiv u. Passivseite:</p>",
+                        "<img src=\"300645883.png\"><p>IV = Flüssige Mittel --&gt; Bankguthaben / Bargeld</p><p>Verbindlichkeiten = Fremdkapital / Schulden</p><p>Rückstellungen = Zwischending zwischen EK u. FK (eher FK zuneigend) (Kein Eigentümer, Keine Haftung)<br><br><br>Aktive und Passive Rechnungsabgrenzungsposten</p><p> BSP.: Miete am 30.12 überwiesen, dann fehlt was in der Kasse, sprich dieses Geld kommt zu  A.Rechnungsabgrenzungsposten Geld bekommnen, was einem noch gar nicht zusteht</p>"
+                    ],
+                    "guid": "d*IiaQ>I&D",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wohin geht der Jahresüberschuss?",
+                        "In die Handelsbilanz."
+                    ],
+                    "guid": "dzZnWSwYB4",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist das Ergebnis der GuV?",
+                        "Der Jahresüberschuss."
+                    ],
+                    "guid": "d)s&#yD)K-",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was besteht aus Bilanz, Gewinn- und Verlustrechnung (GuV) sowie eventuell Anhang und Lagebericht?",
+                        "Der Jahresabschluss."
+                    ],
+                    "guid": "NQUG3NH]a(",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Mengen und Werte: Was Du nicht {{c1::messen}} kannst, kannst Du nicht {{c2::lenken}}.</p>",
+                        "Mengen und Werte: Was Du nicht messen kannst, kannst Du nicht lenken."
+                    ],
+                    "guid": "FDVcX#CvZ7",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet Liquidation eines Unternehmens?",
+                        "Liquidation bedeutet die Auflösung einer Unternehmung durch den Verkauf der einzelnen Vermögensgegenstände."
+                    ],
+                    "guid": "N6(.sT+(cg",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Inhalt von 'Übertragene Sanierung'?",
+                        "Übertragene Sanierung ist Teil des Sanierungsprozesses, der nicht näher erläutert wurde."
+                    ],
+                    "guid": "c6^>]aas]]",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Schritte, die in der Übung zur Sanierung durchgeführt werden?",
+                        "Die Schritte sind planvolle Maßnahmen, die dazu dienen, ein notleidendes Unternehmen zu stabilisieren."
+                    ],
+                    "guid": "A<41KI{j7e",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet Sanierung im Kontext eines Unternehmens?",
+                        "Sanierung bedeutet alle planvollen Maßnahmen, um ein notleidendes Unternehmen vordem Zusammenbruch zu bewahren und seine Leistungsfähigkeit wieder herzustellen."
+                    ],
+                    "guid": "bQ4P(,*+xj",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die zwei Ziele der neuen Insolvenzordnung?",
+                        "Die zwei Ziele der neuen Insolvenzordnung sind spezifische Alternativen zur Regelung von Insolvenzfällen."
+                    ],
+                    "guid": "B&]?3cDck}",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was passierte im Jahr 1999 in Bezug auf Insolvenzverfahren?",
+                        "Im Jahr 1999 wurden Insolvenzverfahren eingeführt, die die vorherigen Regelungen der Konkursordnung und Vergleichsordnung ablösten."
+                    ],
+                    "guid": "op]ygoE.jF",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Auswirkungen von Krisenfolgen auf die Insolvenzordnung?",
+                        "Die Insolvenzordnung wurde seit 1999 geändert, indem sie die Konkursordnung und die Vergleichsordnung ablöste."
+                    ],
+                    "guid": "uhI+?nZp=k",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Ursachen für Krisen werden empirisch unterschieden?",
+                        "Die Ursachen für Krisen können endogen oder exogen sein."
+                    ],
+                    "guid": "d12I2}mM>t",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine zugespitzte Situation des Unternehmens?",
+                        "Eine zugespitzte Situation des Unternehmens wird als Krise bezeichnet."
+                    ],
+                    "guid": "x=*`x~o(u7",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie können diese Krisen enden?",
+                        "Diese Krisen können in der Insolvenz enden."
+                    ],
+                    "guid": "sq{|aNW,,R",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was können Schrumpfungsphasen verursachen?",
+                        "Schrumpfungsphasen können zu Krisen führen."
+                    ],
+                    "guid": "r/v!/Dp<x>",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Richtung von Zusammenschlüssen</p>",
+                        "<img src=\"300645672.png\">"
+                    ],
+                    "guid": "r`>Bh9N{Ij",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Bildungsintensität</p>",
+                        "<img src=\"300645643.png\">"
+                    ],
+                    "guid": "lxOXf~{LJZ",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welches weitere Unterscheidungsmerkmal gibt es bei Unternehmenszusammenschlüssen?",
+                        "Richtung des Zusammenschlusses."
+                    ],
+                    "guid": "o]GN-DS$DA",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nennen Sie ein Unterscheidungsmerkmal von Unternehmenszusammenschlüssen.",
+                        "Bindungsintensität."
+                    ],
+                    "guid": "m1lep]/(S?",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Unternehmenszusammenschlüsse?",
+                        "Vereinigung bestehender Unternehmen zum Zweck gemeinschaftlicher Aufgabenerfüllung."
+                    ],
+                    "guid": "g[dh,`FI|6",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann gutes Kostenmanagement während der Stagnation beschreiben werden?",
+                        "Es ist oft eine gewinnträchtige Phase."
+                    ],
+                    "guid": "L7yeZ~T8E!",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Alternativen gibt es zur Stagnation?",
+                        "Desinvestment oder Ausstieg auf hohem Niveau, Unternehmenszusammenschlüsse."
+                    ],
+                    "guid": "i-NPxRQdlA",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Kennzeichen von Stagnation?",
+                        "Kein Umsatzwachstum mehr möglich und bei gutem Kostenmanagement oft gewinnträchtige Phase."
+                    ],
+                    "guid": "hhIqn9cAFF",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Ziele der Wachstumsphase?</p>",
+                        "<img src=\"300645355.png\">"
+                    ],
+                    "guid": "B%:tcIE{N/",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Ziele der Gründungsphase?",
+                        "Überleben, (Umsatz-) Wachstum, Gewinn noch nicht so wichtig."
+                    ],
+                    "guid": "m`3tEEkTem",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Kooperationen im Unternehmenskontext?",
+                        "Formen der Zusammenarbeit zwischen verschiedenen Unternehmen oder Partnern."
+                    ],
+                    "guid": "uCZY{&<F7*",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Arten der Kapitalaufnahme gibt es?",
+                        "Eigenkapital, Fremdkapital und Subventionen sind die Hauptarten der Kapitalaufnahme."
+                    ],
+                    "guid": "Lv6S<GpWK`",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann Kapitalaufnahme für ein Unternehmen erfolgen?",
+                        "Durch Eigenkapital, Fremdkapital und Subventionen."
+                    ],
+                    "guid": "J1WCm[Ypec",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet personeller Ausbau des Unternehmens?",
+                        "Es bezieht sich auf die Anwerbung von Partnern und Mitarbeitern."
+                    ],
+                    "guid": "M@S]&&fvy6",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Faktoren sind bei der Standortwahl zu berücksichtigen?",
+                        "Es gibt verschiedene Faktoren, die bei der Standortwahl berücksichtigt werden müssen."
+                    ],
+                    "guid": "f[03R;L]sj",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was sind konstitutive Entscheidungen in der Gründungsphase eines Unternehmens?</p>",
+                        "Entscheidungen, die die rechtliche Organisation und den Rahmen eines Unternehmens festlegen."
+                    ],
+                    "guid": "n_ZFhJvOk<",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Grundsatz des „{{c1::öffentlichen Glaubens}}“.",
+                        "Grundsatz des „öffentlichen Glaubens“."
+                    ],
+                    "guid": "CLv;+^Lm:N",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Handelsregister-> Beim zuständigen Amtsgericht gem. § 8 HGB geführtes {{c1::Verzeichnis}} v. Tatsachen, die für den Handelsverkehr rechtlich bedeutsam sind.",
+                        "Handelsregister-> Beim zuständigen Amtsgericht gem. § 8 HGB geführtes Verzeichnis v. Tatsachen, die für den Handelsverkehr rechtlich bedeutsam sind."
+                    ],
+                    "guid": "jx~HD/h<Cj",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die rechtlichen Anforderungen an eine Firma?",
+                        "Eine Firma muss den gesetzlichen Vorschriften entsprechen und darf nicht irreführend sein."
+                    ],
+                    "guid": "CuDr(4O3B/",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kann jeder Kaufmann eine Firma führen?",
+                        "Ja, jeder Kaufmann kann eine Firma führen, solange sie den rechtlichen Anforderungen entspricht."
+                    ],
+                    "guid": "B|K{`NS%OF",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Rolle spielt die Firma im Geschäftsleben?",
+                        "Die Firma identifiziert den Kaufmann und ist wichtig für rechtliche und geschäftliche Angelegenheiten."
+                    ],
+                    "guid": "KY5SAlDpWF",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie definiert das Gesetz vom 22.6.1998 den Kaufmann?",
+                        "Der Gesetz vom 22.6.1998 führt einen grundsätzlich einheitlichen Kaufmannsbegriff ein."
+                    ],
+                    "guid": "sbd]3Xd}LG",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was versteht man unter dem Begriff 'Firma' nach § 17 HGB?",
+                        "Die Firma ist der Name, unter dem ein Kaufmann im Handel seine Geschäfte betreiben und die Unterschrift abgeben kann."
+                    ],
+                    "guid": "roN}lRk5sK",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet der Begriff 'Gründer'?",
+                        "Der Gründer ist die Person, die ein Unternehmen ins Leben ruft."
+                    ],
+                    "guid": "Mw?8`inC{>",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der erste Schritt zur Gründung einer Firma?",
+                        "Die Gründung einer Firma erfolgt durch einen Kaufmann."
+                    ],
+                    "guid": "IZ,n/DJOg`",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was geschieht in der Schrumpfungsphase?",
+                        "Rückgang der Unternehmensaktivitäten."
+                    ],
+                    "guid": "k!40*wR%o|",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was folgt auf die Wachstumsphase im betrieblichen Lebenszyklus?",
+                        "Stagnation."
+                    ],
+                    "guid": "jA`qalKuuN",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die erste Phase des betrieblichen Lebenszyklus?",
+                        "Gründung."
+                    ],
+                    "guid": "H)BNQoo4%2",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Phasen des betrieblichen Lebenszyklus?",
+                        "Gründung, Wachstum, Stagnation, Schrumpfung."
+                    ],
+                    "guid": ":8G@Fsaau",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was beschreibt das Industriegewerkschaftsprinzip?",
+                        "Es ist ein Prinzip gegen das Berufsgruppenprinzip."
+                    ],
+                    "guid": "E.0HzCb|]T",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist das Einheitsgewerkschaftsprinzip?",
+                        "Es ist ein Prinzip gegen Richtungsgewerkschaften."
+                    ],
+                    "guid": "xvfX|!X~BE",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Organisationen vertreten die Arbeitnehmer?",
+                        "Gewerkschaften."
+                    ],
+                    "guid": "g|;R~?PHTG",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die verschiedenen Verbände im Unternehmensbereich?",
+                        "Unternehmensverbände, Arbeitgeberverbände, Wirtschaftsverbände, Kammern."
+                    ],
+                    "guid": "L?f{;pTbK/",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Für öffentliche Betriebe: Organprinzip / Prinzip der {{c1::zentrale Planerfüllung}} / Gemeineigentum.",
+                        "Für öffentliche Betriebe: Organprinzip / Prinzip der zentralen Planerfüllung / Gemeineigentum."
+                    ],
+                    "guid": "Njb4Z7+!||",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Für Unternehmen: {{c1::Autonomieprinzip}} / Erwerbswirtschaftliches Prinzip / Privateigentum.",
+                        "Für Unternehmen: Autonomieprinzip / Erwerbswirtschaftliches Prinzip / Privateigentum."
+                    ],
+                    "guid": "z#cd!d3sbt",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nach Erich Gutenberg gilt: Für Betriebe: Kombination von {{c1::Produktionsfaktoren}} / Prinzip der Wirtschaftlichkeit / Prinzip des finanziellen Gleichgewichts.",
+                        "Nach Erich Gutenberg gilt: Für Betriebe: Kombination von Produktionsfaktoren / Prinzip der Wirtschaftlichkeit / Prinzip des finanziellen Gleichgewichts."
+                    ],
+                    "guid": "e`YkA|[m%-",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was beschreibt die Rentabilität (ROI)?",
+                        "Rentabilität (ROI) = (Gewinn / Kapital) X 100"
+                    ],
+                    "guid": "z^vPM*^34U",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird die Produktivität berechnet?",
+                        "Produktivität = Output (ME) / Input (ME)"
+                    ],
+                    "guid": "zXA,A#Yb{Y",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Kennziffer für Wirtschaftlichkeit?",
+                        "Wirtschaftlichkeit (Effizienz) = Ertrag / Aufwand, besser: Gewinn"
+                    ],
+                    "guid": "F`I!7WH4fQ",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>generelle Extremumprinzip?</p>",
+                        "<p>Ertrags-/ Aufwandsoptimierung und Leistungs-/ Kostenoptimierung</p>"
+                    ],
+                    "guid": "vRGP:bx=mo",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist das Maximumprinzip?",
+                        "Das Maximumprinzip bezieht sich auf die Ertrags- oder Leistungsmaximierung."
+                    ],
+                    "guid": "f;ni4Q7$zm",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was beschreibt das Minimumprinzip?",
+                        "Das Minimumprinzip beschreibt die Aufwands- und Kostenminimierung."
+                    ],
+                    "guid": "F:PJHJK[xJ",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Gebrauchsgüter</p>",
+                        "<p> Handy, Kühlschrank</p>"
+                    ],
+                    "guid": "x=p!$780SY",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was ist ein Verbrauchsgut</p>",
+                        "<p>Maschinen, Wärmepumpe, <strong>Lebensmittel</strong></p>"
+                    ],
+                    "guid": "tLy;yH_]z|",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was ist Konsumgut?</p>",
+                        "<p>Firmenwagen genutzt für priv. Zwecke</p>"
+                    ],
+                    "guid": "QsrXK$rL_u",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was sind Produktionsgüter?</p>",
+                        "<p>Werden benutzt zum Produzieren (Holz, Firmenwagen)</p>"
+                    ],
+                    "guid": "pj~WtXoHpR",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"300644220.png\"><p>Welche Arten von Wirtschaftsgütern gibt es?</p>",
+                        ""
+                    ],
+                    "guid": "C|aE>C<}6z",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was definiert Real und Nominal Güter?</p>",
+                        "<p>Real: Wert wächst daraus, was man machen kann</p><p>Nominal: abgeleiteten Wert / Vertrauen (als BSP.: 50€ Schein)</p>"
+                    ],
+                    "guid": "zwR[!^|3NC",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was definiert Input und Outputgüter?</p>",
+                        "<p>Inputgüter: Güter, die in die Produktion rein gehen (auch Dienstleistungen)</p><p>Outputgüter: Was bei der Produktion raus kommt</p>"
+                    ],
+                    "guid": "ERkg<!wh7o",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Welche Güter unterscheidet man weiterhin?</p>",
+                        "<p>Input / Output - Güter</p><p>Real- und Nominalgüter</p><p>Wirtschaftsgüter</p>"
+                    ],
+                    "guid": "w?H89nQ<Y{",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Welche Arten von Gütern gibt es?</p><p>und nenne Beispiele</p>",
+                        "<p>Freie und knappe Güter</p><p>Freie: Eigentumsrechte, \"Leute zahlen dafür\", Nachfrage / Angebit</p><p>Knappe Güter: Sand in der Sahara</p>"
+                    ],
+                    "guid": "K$tfobiYEm",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was ist wirtschaften?</p>",
+                        "<p>Wirtschaftren ist das disponieren über knappe Güter, die direkt oder indirekt zur Befriedigung menschlicher Bedürfnisse geeignet sind</p><p></p>"
+                    ],
+                    "guid": "qt|v.<Bp?-",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Welche Arten von BWL gibt ist? </p>",
+                        "<p>Es gibt:</p><ul><li><p>ABWL (Allgemeine Betriebswirtschaftslehere)</p></li><li><p>Spezielle BWL</p></li></ul>"
+                    ],
+                    "guid": "e1AP^0>9{E",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
             "crowdanki_uuid": "3835f964-e2f6-11ef-a8e9-6132f5da98c4",
             "deck_config_uuid": "37c54958-e2f6-11ef-a8e9-6132f5da98c4",
             "desc": "",
@@ -53,6 +2390,354 @@
                     ],
                     "guid": "K*<?b|+m),",
                     "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "38404acc-e2f6-11ef-a8e9-6132f5da98c4",
+            "deck_config_uuid": "37c54958-e2f6-11ef-a8e9-6132f5da98c4",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "MCI - 1",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was ist Usability?</p>",
+                        "<p>Die <strong>Gebrauchstauglichkeit </strong>eines Produkts – definiert als das Maß, in dem es von bestimmten Nutzern genutzt werden kann, um bestimmte Ziele <strong>effektiv, effizient und zufriedenstellend</strong> zu erreichen.</p>"
+                    ],
+                    "guid": "iO-5od_$+c",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was ist der Unterschied zwischen funktions- und objektorientierter Interaktion?</p>",
+                        "<ol><li><p>Funktionsorientiert: Erst Funktion wählen, dann Objekt (z. B. Farbe in Paint).</p></li><li><p>Objektorientiert: Erst Objekt wählen, dann Funktion (z. B. Text markieren, dann fett machen).</p></li></ol>"
+                    ],
+                    "guid": "hZBiy!#edg",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was sind die vier Grundregeln für Fehlermeldungen?</p>",
+                        "<ol><li><p>Klare Sprache – Keine obskuren Codes („Error 404“ ist schlecht).</p></li><li><p>Präzise Infos – „Kann Datei XY nicht öffnen, weil Word nicht installiert ist“.</p></li><li><p>Lösungsvorschläge – Benutzer sollte wissen, was zu tun ist.</p></li><li><p>Höfliche Formulierung – Keine Schuldzuweisungen („ILLEGAL ACTION“ vermeiden).</p></li></ol>"
+                    ],
+                    "guid": "mS(DHDtD#?",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was ist eine fehlertolerante UI?</p>",
+                        "<p>Ein System, das trotz fehlerhafter Eingaben funktioniert oder dem Nutzer eine Korrekturmöglichkeit gibt.</p>"
+                    ],
+                    "guid": "dHn)X:0%5i",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Warum ist Feedback in der UI wichtig?</p>",
+                        "<p>Damit Benutzer wissen, was passiert und ob ihre Eingabe erfolgreich war (z. B. Fortschrittsbalken, Animationen).</p>"
+                    ],
+                    "guid": "iPjsOL5[Wx",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Warum ist Konsistenz wichtig?</p>",
+                        "<ol><li><p>Innere Konsistenz → Einheitliches Design innerhalb einer Anwendung.</p></li><li><p>Äußere Konsistenz → Einheitliche Konzepte zwischen verschiedenen Anwendungen.</p></li><li><p>Semantische Konsistenz → Gleiche Funktionen haben gleiche Bedeutungen.</p></li><li><p>Syntaktische Konsistenz → Gleiche Funktionen sind an derselben Stelle (z. B. Speichern-Button immer oben).</p></li></ol>"
+                    ],
+                    "guid": "L[Q~?0O%@}",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was bedeutet <strong>Mapping </strong>in der UI-Gestaltung?</p>",
+                        "<p>Die <strong>Abbildung von Steuerelementen</strong> <strong>auf Funktionen</strong> sollte intuitiv sein (z. B. Herdplatten-Bedienung).</p>"
+                    ],
+                    "guid": "wwb9PpI}a{",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was sind Constraints in der UI?</p>",
+                        "<p>Einschränkungen, die falsche Aktionen verhindern.</p><ol><li><p>Physikalisch (z. B. Scrollbalken stoppt oben/unten).</p></li><li><p>Kulturell (z. B. „Blau = kalt, Rot = warm“).</p></li></ol>"
+                    ],
+                    "guid": "ELOHeRm^f4",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was bedeutet <strong>Affordance</strong> in der UI-Gestaltung?</p>",
+                        "<p>Ein <strong>Objekt vermittelt visuell</strong>, wie es benutzt werden kann, z. B. eine Tür mit Griff zum Ziehen.</p>"
+                    ],
+                    "guid": "E.R^gYc3g[",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was sind die wichtigsten Prinzipien für eine gute UI-Gestaltung?</p>",
+                        "<ol><li><p>Affordances &amp; Signifiers (Hinweise für Interaktion).</p></li><li><p>Constraints (Einschränkungen zur Vermeidung von Fehlbedienung).</p></li><li><p>Mapping (logische Zuordnung von Bedienelementen zu Funktionen).</p></li><li><p>Konsistenz &amp; Vorhersagbarkeit (einheitliches Verhalten).</p></li><li><p>Feedback (Systemreaktion auf Eingaben).</p></li><li><p>Fehlertoleranz &amp; Fehlervermeidung (robuste Systeme).</p></li></ol>"
+                    ],
+                    "guid": "w0pBy*-LH#",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Welche Risiken gibt es bei Metaphern?</p>",
+                        "<ol><li><p>Kann die Sicht auf Funktionalitäten einengen.</p></li><li><p>Kann falsche Erwartungen wecken (Über- oder Unterschätzung des Systems).</p></li><li><p>Metaphernbrüche vermeiden! (z. B. „Papierkorb“ ohne Rückhol-Funktion).</p></li></ol>"
+                    ],
+                    "guid": "ceweM;sZeQ",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Welche Vorteile haben Metaphern für Nutzer?</p>",
+                        "<ol><li><p>Schnellere Einarbeitung.</p></li><li><p>Bessere Verständlichkeit durch bekannte Konzepte.</p></li><li><p>Weckt Assoziationen und erleichtert das Lernen.</p></li></ol>"
+                    ],
+                    "guid": "c42M*y6G9]",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was ist der Unterschied zwischen einer Quelldomäne und einer Zieldomäne?</p>",
+                        "<ol><li><p>Quelldomäne: Bekanntes Konzept (z. B. physischer Schreibtisch).</p></li><li><p>Zieldomäne: Neues System, das durch die Metapher erklärt wird (z. B. Desktop-Oberfläche).</p></li></ol>"
+                    ],
+                    "guid": "enh!.nbdy,",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Warum sind Metaphern in der MCI wichtig?</p>",
+                        "<ol><li><p>Vereinfachen die Bedienung durch bekannte Konzepte.</p></li><li><p>Verringern Einstiegshürden und erleichtern die Einarbeitung.</p></li><li><p>Ermöglichen direkte Manipulation (z. B. Drag &amp; Drop von Dateien).</p></li></ol>"
+                    ],
+                    "guid": "o[,Sun<*)T",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Nenne ein Beispiel für eine bekannte Metapher in der MCI</p>",
+                        "<p>Desktop-Metapher → Der Bildschirm als Schreibtisch mit Ordnern, Dateien und Papierkorb</p>"
+                    ],
+                    "guid": "G1|oT<CjE-",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was ist eine Metapher in der MCI?</p>",
+                        "<p>Eine <strong>Übertragung </strong>eines vertrauten mentalen Modells auf ein neues System, um dessen Nutzung intuitiver zu machen.</p>"
+                    ],
+                    "guid": "bsc_?{z:t?",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was besagt Murphys Gesetz?</p>",
+                        "<p>\"Alles, was schiefgehen kann, wird irgendwann schiefgehen.\"</p>"
+                    ],
+                    "guid": "j}BGIB&3t&",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Welche sechs Phasen gibt es bei der Bedienung eines Systems?</p>",
+                        "<ol><li><p>Zielsetzung – Was will ich erreichen?</p></li><li><p>Intention – Wie kann ich es erreichen?</p></li><li><p>Handlungsplanung – Welche Schritte sind nötig?</p></li><li><p>Ausführung – Ich führe die Handlung aus.</p></li><li><p>Wahrnehmung – Ich sehe die Systemreaktion.</p></li><li><p>Interpretation &amp; Bewertung – Habe ich mein Ziel erreicht?</p></li></ol>"
+                    ],
+                    "guid": "L|.&dM9/H8",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Welche zwei Arten der beidhändigen Interaktion gibt es?</p>",
+                        "<ol><li><p>Symmetrische Verteilung: Beide Hände machen die gleiche Bewegung.</p></li><li><p>Asymmetrische Verteilung: Eine Hand führt, die andere unterstützt.</p></li></ol>"
+                    ],
+                    "guid": "kN=;r$t<08",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Welche Aufgaben übernehmen die dominante und nicht-dominante Hand?</p>",
+                        "<ol><li><p><strong>Dominante Hand</strong>: Präzise Aufgaben (Schreiben, Mausbewegung).</p></li><li><p><strong>Nicht-dominante Hand</strong>: Unterstützende Aufgaben (Papier halten, Shift-Taste).</p></li></ol>"
+                    ],
+                    "guid": "j3RctCAXS`",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Wie kann Fitts’ Law in der MCI angewendet werden?</p>",
+                        "<ol><li><p>Wichtige Buttons vergrößern (z. B. „OK“ größer als „Abbrechen“).</p></li><li><p>Menüs und Elemente strategisch platzieren (z. B. Kontextmenüs in Cursornähe).</p></li><li><p>Pie-Menüs statt Listenmenüs (schnellere Auswahl durch kreisförmige Anordnung).</p></li></ol>"
+                    ],
+                    "guid": "z8FPL0p.g?",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was besagt Fitts' Law?</p>",
+                        "<ul><li><p>Je größer ein Ziel und je näher es ist, desto schneller kann es erreicht werden.</p></li><li><p>Wichtig für UI/UX: Große Buttons nahe am Cursor erleichtern die Bedienung.</p></li></ul>"
+                    ],
+                    "guid": "EZ;D5LkIy=",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was sind Earcons?</p>",
+                        "<p>Abstrakte Töne für bestimmte Systemereignisse (z. B. Benachrichtigungen, Windows Error Sound).</p>"
+                    ],
+                    "guid": "vnP/N/[YFx",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was sind Auditory Icons?</p>",
+                        "<p>Geräusche, die reale Klänge nachahmen (z. B. Papierknistern für „Datei löschen“).</p>"
+                    ],
+                    "guid": "eEt?-e;PCH",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Wie lange speichert der Echo-Speicher Geräusche?</p>",
+                        "<p>Bis zu 1,5 Sekunden.</p>"
+                    ],
+                    "guid": "LG{&*Z+E?,",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Warum ziehen blinkende Elemente sofort Aufmerksamkeit auf sich?</p>",
+                        "<p>Weil das Gehirn auf plötzliche Veränderungen sehr empfindlich reagiert.</p>"
+                    ],
+                    "guid": "lN=pioo-X~",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Ab welcher Bildrate wirkt Bewegung flüssig?</p>",
+                        "<p>Ab ca. 22 Bilder pro Sekunde (fps).</p>"
+                    ],
+                    "guid": "G?n,dh]0+m",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was besagt das <strong>Gesetz der Einfachheit</strong>?</p>",
+                        "<p>Das Gehirn bevorzugt einfache, symmetrische und regelmäßige Formen.</p>"
+                    ],
+                    "guid": "fO9hF+V*!c",
+                    "note_model_uuid": "38406b7e-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was besagt das <strong>Gesetz der guten Fortsetzung</strong>?</p>",
+                        "<p>Linien oder Muster werden als fortgesetzt wahrgenommen, auch wenn sie unterbrochen sind.</p>"
+                    ],
+                    "guid": "Q*qPlb+&P)",
+                    "note_model_uuid": "38406b7e-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was besagt das <strong>Gesetz der Geschlossenheit</strong>?</p>",
+                        "<p>Unvollständige Formen werden als vollständige wahrgenommen.</p>"
+                    ],
+                    "guid": "tXk8V5:fH&",
+                    "note_model_uuid": "38406b7e-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was besagt das Gesetz der Ähnlichkeit?</p>",
+                        "<p>Ähnliche Elemente (Farbe, Form, Größe) werden als Einheit wahrgenommen.</p>"
+                    ],
+                    "guid": "P@J{Co_Hv)",
+                    "note_model_uuid": "38406b7e-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Was besagt das <strong>Gesetz der Nähe</strong>?</p>",
+                        "<p>Elemente, die nah beieinander liegen, werden als zusammengehörig wahrgenommen.</p>"
+                    ],
+                    "guid": "BIX,[3)_&!",
+                    "note_model_uuid": "38406b7e-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<p>Warum sollte man reines Blau für Text vermeiden?</p>",
+                        "<p>Weil das Auge gegenüber Blau weniger empfindlich ist und die Lesbarkeit leidet.</p>"
+                    ],
+                    "guid": "BvlUEq1[xm",
+                    "note_model_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
                     "tags": []
                 }
             ],
@@ -137,6 +2822,73 @@
     "note_models": [
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "38405aa8-e2f6-11ef-a8e9-6132f5da98c4",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -6354754169238875540,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1540949914221090625,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "AnkiPro Basic-d668b",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 8016626481540474309,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
             "flds": [
@@ -197,6 +2949,92 @@
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "38406b7e-e2f6-11ef-a8e9-6132f5da98c4",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9112837880394582017,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2983840943923207329,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "AnkiPro Basic (and reversed card)-3e340",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 5723621697780685081,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -4831612526730994772,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
                 }
             ],
             "type": 0
