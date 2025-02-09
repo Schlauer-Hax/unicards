@@ -2581,6 +2581,286 @@
                     "tags": [
                         "01_Einführung"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Stellenwertsysteme?",
+                        "Bei Stellenwertsystemen wird jedem Symbol eine Wertigkeit in Abhängigkeit der Stelle zugewiesen."
+                    ],
+                    "guid": "vC<b}sG)oT",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Beispiele für Stellenwertsysteme gibt es?",
+                        "Dezimalsystem: R = 10, Ziffern 0-9<br>Binärsystem: R = 2, Ziffern 0,1<br>"
+                    ],
+                    "guid": "m|o_a>V7~+",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Die Dezimalzahl 1234 ist die verkürzte Schreibweise von?",
+                        "1234 = 1*10<sup>3</sup>&nbsp;+ 2*10<sup>2</sup>&nbsp;+ 3*10<sup>1</sup>&nbsp;+ 4*10<sup>0</sup>&nbsp;"
+                    ],
+                    "guid": "A9t@V]N}M>",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Die Binärzahl 0101 ist eine verkürzte Schreibweise von? Welche Dezimalzahl repräsentiert diese Binärzahl?",
+                        "0101 = 0*2<sup>3</sup>&nbsp;+ 1*2<sup>2</sup>&nbsp;+ 0*2<sup>1</sup>&nbsp;+ 1*2<sup>0</sup>&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;= 1*2<sup>2</sup>&nbsp;+ 1*2<sup>0</sup>&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;= 4&nbsp; &nbsp; &nbsp; + 1&nbsp; &nbsp; &nbsp; &nbsp;= 5"
+                    ],
+                    "guid": "Ma8.Q0._o:",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Stellenwertsysteme: Für was steht R?",
+                        "R steht für die Basis oder auch den Radix.<br>Die Basis in einem Stellenwertsystem gibt an wie viele Symbole es gibt und wird zur Wertbestimmung genutzt."
+                    ],
+                    "guid": "hf=B&UjdJk",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Stellenwertsysteme: Wie kann man den Wert eine n-stelligen Zahl berechnen?",
+                        "X = x<sub>0</sub>R<sup>0</sup>&nbsp;+ x<sub>1</sub>R<sup>1</sup>&nbsp;+ x<sub>2</sub>R<sup>2</sup>&nbsp;+ ... =&nbsp;\\(\\sum_{i=0}^{n-1} x_i R^i\\)"
+                    ],
+                    "guid": "L{[wShWR?;",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Schritte um eine Zahl in ein anderes Stellenwertsystem umzurechnen?",
+                        "1. Zahl durch R mit Rest teilen<br>2. Rest entspricht gesuchte Ziffer<br>3. Solange Divisionsergebnis ungleich 0 -&gt; Schritt 1 und 2 wiederholen"
+                    ],
+                    "guid": "rC?1{XmIOz",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Für was werden Hexadezimale Zahlen verwendet?",
+                        "Hexadezimale Zahlen werden häufig zur kompakten Darstellung von Binärzahlen verwendet"
+                    ],
+                    "guid": "j0z:S3P}b#",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Basis (R) haben dezimale Zahlen?",
+                        "16"
+                    ],
+                    "guid": "fP>7J`S2]Z",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Ziffern werden für Hexadezimale Zahlen verwendet?",
+                        "0-9A-F (A-F repräsentieren die Wertigkeit 10 bis 15)"
+                    ],
+                    "guid": "pb3w6!xUs7",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mit wie viel Bit kann man eine Hexadezimale Ziffer darstellen?",
+                        "4 (Ziffer kann Wertigkeit von 0-15 haben -&gt; 16 Möglichk.)"
+                    ],
+                    "guid": "E[F7p9I&!T",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wo findet man Hexadezimal Zahlen?",
+                        "MAC-Adresse auf Netzwerkgeräten<br>Farbauswahl in Photoshop"
+                    ],
+                    "guid": "mXB7rXi6v",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie sind Farbcodes die in Hexadezimal Format geschrieben sind aufgebaut?",
+                        "Jeder Farbkanal ist mit 8 Bit kodiert <br>=&gt; 256 Möglichkeiten <br>=&gt;&nbsp;Lässt sich mit 2 Hex Ziffern darstellen<br><br>Beispiel:<br>Farbcode: #42afd3<br>R: 42<sub>16</sub>&nbsp;= 66<br>G: AF<sub>16</sub>&nbsp;= 175<br>B: D3<sub>16</sub>&nbsp;= 211"
+                    ],
+                    "guid": "cJ(s<fO<qx",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Konvertiere 100<sub>10</sub>&nbsp;ins Hexadezimalsystem",
+                        "100 : 16 = 6 Rest 4<br>&nbsp; &nbsp; 6 : 16 = 0 Rest 6<br>=&gt; 100<sub>10</sub>&nbsp;= 64<sub>16</sub>"
+                    ],
+                    "guid": "lv]uZ%q3b0",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mit welchen Codierungen können vorzeichenbehaftete Zahlen dargestellt werden?",
+                        "- Vorzeichen-Betrag-Darstellung<br>- Einerkomplement-Darstellung<br>- Zweierkomplement-Darstellung"
+                    ],
+                    "guid": "c]}1h9eBkC",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist die Vorzeichen-Betrag Darstellung aufgebaut?",
+                        "Das Bit mit höchster Wertigkeit (most significant bit) (x<sub>n-1</sub>) wird für das Vorzeichen verwendet.<br><br>\\(X =\n\\begin{cases}\n\\displaystyle \\sum_{i=0}^{n-2} x_i\\,2^i, &amp; \\text{für } x_{n-1} = 0,\\\\[6pt]\n\\displaystyle -\\sum_{i=0}^{n-2} x_i\\,2^i, &amp; \\text{für } x_{n-1} = 1.\n\\end{cases}\\)"
+                    ],
+                    "guid": "wzfI>?-`5",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Wertebereich der Vorzeichen-Betrag Darstellung?",
+                        "-(2<sup>n-1</sup>&nbsp;- 1) &lt;= X &lt;= 2<sup>n-1</sup>&nbsp;- 1"
+                    ],
+                    "guid": "c[<nX/gp;.",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann man die Vorzeichen Betrag Darstellung umgangssprachlich beschreiben?",
+                        "Einfach Vorne eine Stelle dran ob + (0) oder - (1)"
+                    ],
+                    "guid": "Cxhjk9E=pB",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Probleme gibt es bei der Vorzeichen-Betrag Darstellung?",
+                        "1. Die Zahl 0 ist doppelt kodiert<br>2. Das Addieren/Subtrahieren erfordert Fallunterscheidung je nach Vorzeichen"
+                    ],
+                    "guid": "ulQY0ZLCRv",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Stelle 6<sub>10</sub> in Vorzeichen-Betrag Darstellung da (mit 4 Bit)",
+                        "6<sub>10</sub>&nbsp;= 110<sub>2</sub>&nbsp;<br>Hinzufügen das Vorzeichen Bits:&nbsp;<br>-6<sub>10</sub>&nbsp;= 1110<sub>VB</sub>"
+                    ],
+                    "guid": "itd]>s1O*B",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum ist die Zweierkomplement Darstellung ideal geeignet?",
+                        "Weil die negative Zahl genau komplementär zur positiven Zahl ist.<br>D.h. für eine Zahl X sollte gelten dass X - X = 0 ist."
+                    ],
+                    "guid": "e1=x=lF|!5",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert die Zweierkomplement-Codierung?",
+                        "- Positive Zahlen werden binär codiert<br>- Negative Zahlen werden:<br>&nbsp; Bitweise invertiert und mit 1 Addiert<br>Es wird ein Bit mehr benötigt"
+                    ],
+                    "guid": "Ke[C,?_YOo",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Stelle -6 im 4 Bit Zweierkomplement dar",
+                        "1. 6<sub>10&nbsp;</sub>= 0110<sub>2</sub>&nbsp;&nbsp;<br>2. Bitweise Invertierung: 1001<sub>2I</sub>&nbsp;<br>3. Addition mit 1:<br>&nbsp; &nbsp; 1001<br><u>+&nbsp; &nbsp; &nbsp; &nbsp; 1</u>&nbsp; &nbsp; &nbsp; &nbsp;=&gt; -6<sub>10</sub>&nbsp;= 1010<sub>2K</sub><br>&nbsp; &nbsp; 1010"
+                    ],
+                    "guid": "JMR=Y./Q}",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Konvertiere das Zweierkomplement 1010<sub>2K</sub> in eine Dezimalzahl um",
+                        "1. Bitweise Invertierung: 1010 -&gt; 0101<br>2. Addition mit 1:<br>&nbsp; &nbsp; 0101<br><u>+&nbsp; &nbsp; &nbsp; &nbsp; 1<br></u>&nbsp; &nbsp; 0110<br>=&gt; 0110<sub>2</sub>&nbsp;= 6<sub>10</sub>&nbsp;"
+                    ],
+                    "guid": "O0s67T8T9R",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist eine Festkommazahl aufgebaut?",
+                        "Die Zahl wird um eine feste Anzahl an Nachkommastellen erweitert:<br>X = (x<sub>n-1</sub>x<sub>n-2</sub>...x<sub>1</sub>x<sub>0</sub>,x<sub>-1</sub>x<sub>-2</sub>...x<sub>-f</sub>)"
+                    ],
+                    "guid": "b5z+>M#}9)",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist der Wert eine Festkommazahl gegeben?",
+                        "Der Wert ist gegeben durch:<br>\\(X = \\sum_{i=-f}^{n-1} x_i \\, 2^i\\)"
+                    ],
+                    "guid": "l!f6T$3#|Q",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Wert der Festkommazahl 101,1101<sub>2</sub>?",
+                        "2<sup>2</sup>+2<sup>0</sup>+2<sup>-1</sup>+2<sup>-2</sup>+2<sup>-4</sup>=5,8125<sub>10</sub>"
+                    ],
+                    "guid": "B0lUtI}llL",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie konvertiert man eine Dezimalkommazahl in eine Festkommazahl? Stelle pi mit 8 Nachkommastellen dar",
+                        "1. Multiplizierung mit 2<sup>f</sup>&nbsp;(f ist die Nachkommastellenanzahl)<br>2. Runde das Ergebnis zur nächsten ganzen Zahl<br>3. Konvertiere ganze Zahl ins Binärsystem<br>4. Verschiebe die Zahl um f Bit nach rechts<br><br>Beispiel: Darstellung von pi = 3.1415926 mit 8 Nachkommastellen<br>1. pi*2<sup>8</sup>&nbsp;= 804,2477<br>2. Runden -&gt; 804<br>3. 804<sub>10</sub>&nbsp;= 1100100100<sub>2</sub>&nbsp;<br>4. 11,0010 0100<sub>2&nbsp;</sub>= 3,140625<sub>10</sub><br>"
+                    ],
+                    "guid": "Fx:L&YWxbe",
+                    "note_model_uuid": "3821b2e2-e2f6-11ef-a8e9-6132f5da98c4",
+                    "tags": []
                 }
             ],
             "reviewLimit": null,
